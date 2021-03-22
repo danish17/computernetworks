@@ -10,7 +10,7 @@
     <th>Concepts</th>
 </tr>
 <tr>
-    <td><a href="https://github.com/danish17/computernetworks/blob/main/Packet%20Tracer%20Experiments/DHCP-DNS%20Server%20with%20OSPF-EIGRP.pkt">EIGRP and OSPF</a></td>
+    <td><a href="https://github.com/danish17/computernetworks/blob/main/Packet%20Tracer%20Experiments/EIGRP-OSPF.pkt">EIGRP and OSPF</a></td>
     <td>Combination of OSPF and EIGRP networks</td>
     <td>OSPF, EIGRP, Redristibution, Static IPs</td>
 </tr>
