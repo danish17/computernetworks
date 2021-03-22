@@ -10,6 +10,11 @@
     <th>Concepts</th>
 </tr>
 <tr>
+    <td><a href="https://github.com/danish17/computernetworks/blob/main/Packet%20Tracer%20Experiments/DHCP-DNS%20Server%20with%20OSPF-EIGRP.pkt">EIGRP and OSPF</a></td>
+    <td>Combination of OSPF and EIGRP networks</td>
+    <td>OSPF, EIGRP, Redristibution, Static IPs</td>
+</tr>
+<tr>
     <td><a href="https://github.com/danish17/computernetworks/blob/main/Packet%20Tracer%20Experiments/DHCP-DNS%20Server%20with%20OSPF-EIGRP.pkt">DHCP with EIGRP and OSPF</a></td>
     <td>A 'complex' network with DHCP, and OSPF and EIGRP routing, with a DNS Server</td>
     <td>DHCP, DNS Servers, EIGRP, OSPF, Redistribution, IP Helper Address</td>
